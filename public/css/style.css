@@ -1,0 +1,39 @@
+* {
+  margin:0; padding: 0;
+  font-family: Open Sans, sans-serif;
+}
+body {
+  background: url('/img/time-of-2353382_1280.jpg');
+  background-size: cover;
+}
+#content {
+  width:960px;
+  margin: 40px auto;
+}
+.kota {
+  width:400px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 3px;
+  border:none;
+  border:1px solid #f1f1f1;
+  margin-bottom: 15px;
+}
+.btn {
+  width:415px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 3px;
+  border:none;
+  color:white;
+  background: black;
+  margin-bottom:10px;
+}
+.btn:hover {
+  background: #f1f1f1;
+  color:black;
+}
+p {
+  font-size:20px;
+  font-weight: bold;
+}
