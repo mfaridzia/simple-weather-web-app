@@ -1,4 +1,4 @@
-Simple Weather website with Express.JS
+Simple Weather App with Express.JS
 ======================================
 
 This project uses the API service from web openweathermap.org
